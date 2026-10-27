@@ -3,7 +3,7 @@
 **Lulusan Teknik Informatika** yang berfokus pada pengembangan web dan data. Saya suka membangun aplikasi yang memecahkan masalah nyata, dari antarmuka sampai pengolahan datanya. Saat ini mencari kesempatan magang sebagai **Software Engineer**.
 
 📍 Bandung, Indonesia
-🛠️ Junior Web Developer • Data Mining • Automasi Data • IT Support
+🛠️ Junior Software Developer
 
 <!--## Tech Stack
 
