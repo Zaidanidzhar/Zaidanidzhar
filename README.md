@@ -1,9 +1,9 @@
 # Hai, saya Zaidan 👋
 
-**Lulusan Teknik Informatika** yang berfokus pada pengembangan web dan data. Saya suka membangun aplikasi yang memecahkan masalah nyata, dari antarmuka sampai pengolahan datanya. Saat ini mencari kesempatan magang sebagai **Software Engineer**.
+**Lulusan Teknik Informatika** Saya suka membangun aplikasi yang memecahkan masalah nyata, dari antarmuka sampai pengolahan datanya, dan juga tertarik menjadi jembatan antara kebutuhan bisnis dan tim teknis.
 
 📍 Bandung, Indonesia
-🛠️ Junior Software Developer
+🛠️ informatics enginer
 
 <!--## Tech Stack
 
