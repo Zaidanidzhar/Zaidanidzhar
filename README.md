@@ -1,6 +1,10 @@
 # Hai, saya Zaidan 👋
 
-**Lulusan Teknik Informatika** Saya suka membangun aplikasi yang memecahkan masalah nyata, dari antarmuka sampai pengolahan datanya, dan juga tertarik menjadi jembatan antara kebutuhan bisnis dan tim teknis.
+**Fresh Graduate S1 Teknik Informatika STMIK Mardira Indonesia dengan ketertarikan kuat dan fokus pengembangan karier pada Business/System Analyst, IT Quality Assurance, dan IT Project Management.
+
+Memiliki pengalaman praktis dalam pengembangan dan pemeliharaan perangkat lunak, termasuk masa magang di Diskominfo Kota Cimahi dalam pemeliharaan kode sumber dan refaktorisasi sistem. Pada tugas akhir (skripsi), saya sukses membangun aplikasi web fullstack terintegrasi dengan model machine learning menggunakan FastAPI dan algoritma K-Means untuk segmentasi pelanggan berbasis RFM.
+
+Kombinasi latar belakang teknis yang solid (software engineering) serta pemahaman alur sistem membuat saya mampu menjembatani kebutuhan bisnis dan teknis secara efektif. Siap berkontribusi dan memberikan dampak positif bagi perusahaan sebagai bagian dari tim IT yang dinamis.
 
 📍 Bandung, Indonesia
 🛠️ informatics enginer
